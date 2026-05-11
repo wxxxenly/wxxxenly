@@ -4,6 +4,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=wxxxenly&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=wxxxenly&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=wxxxenly&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=wxxxenly&icon=6&color=12)](https://visitcount.itsvg.in)
