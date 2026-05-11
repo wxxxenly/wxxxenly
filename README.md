@@ -1,140 +1,18 @@
-::: {align="center"}
-# Hi there, I'm Jonathan 👋
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-### Full-Stack Developer • Automation Enthusiast • Building Cool Stuff
 
-`<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Automation+Engineer;Building+Bots+%26+Web+Apps;Always+Learning+New+Technologies" />`{=html}
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=wxxxenly&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=wxxxenly&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=wxxxenly&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-`<br/>`{=html}
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=wxxxenly&theme=vue-dark&no-frame=false&no-bg=false&margin-w=4)
 
-`<img src="https://komarev.com/ghpvc/?username=wxxxenly&label=Profile%20Views&color=0e75b6&style=for-the-badge" />`{=html}
-`<img src="https://img.shields.io/github/followers/wxxxenly?style=for-the-badge&color=1f6feb&labelColor=161B22" />`{=html}
-`<img src="https://img.shields.io/github/stars/wxxxenly?style=for-the-badge&color=FFD700&labelColor=161B22" />`{=html}
-:::
+---
+[![](https://komarev.com/ghpvc/?username=wxxxenly&icon=6&color=12)](https://visitcount.itsvg.in)
 
-------------------------------------------------------------------------
-
-# 💫 About Me
-
-``` ts
-const jonathan = {
-    username: "wxxxenly",
-    role: "Developer",
-    location: "🌍 Earth",
-    code: ["Java", "Python", "JavaScript", "TypeScript"],
-    interests: [
-        "Automation",
-        "Bots",
-        "Backend Development",
-        "Web Apps",
-        "AI"
-    ],
-    currentlyLearning: [
-        "Spring Boot",
-        "Docker",
-        "System Design"
-    ]
-};
-```
-
-------------------------------------------------------------------------
-
-# 🛠 Tech Stack
-
-### Languages
-
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" />`{=html}
-```{=html}
-</p>
-```
-### Frameworks & Tools
-
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,nextjs,docker,git,github,postgres,mysql,mongodb,redis" />`{=html}
-```{=html}
-</p>
-```
-### IDE & Environment
-
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,linux,ubuntu,windows" />`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-# 📊 GitHub Analytics
-
-::: {align="center"}
-`<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wxxxenly&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" />`{=html}
-
-`<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wxxxenly&layout=compact&theme=transparent&hide_border=true" />`{=html}
-:::
-
-------------------------------------------------------------------------
-
-# 🏆 GitHub Trophies
-
-::: {align="center"}
-`<img src="https://github-profile-trophy.vercel.app/?username=wxxxenly&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />`{=html}
-:::
-
-------------------------------------------------------------------------
-
-# 📈 Contribution Graph
-
-::: {align="center"}
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=wxxxenly&theme=github-compact&hide_border=true" />`{=html}
-:::
-
-------------------------------------------------------------------------
-
-# 📌 GitHub Summary
-
-::: {align="center"}
-`<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wxxxenly&theme=github_dark" />`{=html}
-:::
-
-::: {align="center"}
-`<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wxxxenly&theme=github_dark" width="32%" />`{=html}
-`<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wxxxenly&theme=github_dark" width="32%" />`{=html}
-`<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wxxxenly&theme=github_dark" width="32%" />`{=html}
-:::
-
-------------------------------------------------------------------------
-
-# 🐍 Contribution Snake
-
-```{=html}
-<p align="center">
-```
-`<img src="https://raw.githubusercontent.com/wxxxenly/wxxxenly/output/github-contribution-grid-snake-dark.svg" />`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-# 🌐 Connect With Me
-
-::: {align="center"}
-`<a href="https://github.com/wxxxenly">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
-`</a>`{=html}
-:::
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Repeat."*
-:::
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
